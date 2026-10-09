@@ -8,24 +8,24 @@
     "gearbox": "Automatická",
     "country": "ČR"
   },
-  "generated_at": "2026-10-09T10:38:48.239181+00:00",
-  "started_at": "2026-10-09T10:33:13.634056+00:00",
+  "generated_at": "2026-10-09T11:52:08.922900+00:00",
+  "started_at": "2026-10-09T11:46:01.990259+00:00",
   "lookback_days": 30,
   "sources": {
     "Sauto": {
       "state": "ok",
       "scanned": 101,
       "message": "",
-      "checked_at": "2026-10-09T10:33:15.307809+00:00"
+      "checked_at": "2026-10-09T11:46:04.038933+00:00"
     },
     "Sbazar": {
       "state": "ok",
-      "scanned": 397,
+      "scanned": 396,
       "pages": 88,
-      "unverified": 49,
+      "unverified": 48,
       "failed_details": 0,
       "message": "",
-      "checked_at": "2026-10-09T10:38:48.239150+00:00"
+      "checked_at": "2026-10-09T11:52:08.922847+00:00"
     }
   },
   "items": [
@@ -44,7 +44,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211241855",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -62,7 +62,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/bmw/rada-1/211241155",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -80,7 +80,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/volkswagen/polo/211240643",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -98,7 +98,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211238895",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -116,7 +116,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/kia/venga/211217034",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -134,7 +134,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211216770",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -153,7 +153,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -171,7 +171,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211191447",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -189,7 +189,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/opel/mokka/211171719",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -207,7 +207,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211169568",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -225,7 +225,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/toyota/yaris/211155699",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -243,7 +243,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/ds/3/211120893",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     },
     {
@@ -262,7 +262,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -280,7 +280,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/citroen/c3/211115013",
-      "last_seen_at": "2026-10-09T10:33:15.307809+00:00",
+      "last_seen_at": "2026-10-09T11:46:04.038933+00:00",
       "stale": false
     }
   ],
@@ -301,7 +301,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -320,7 +320,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -339,7 +339,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -358,7 +358,7 @@
       "fuel": null,
       "gearbox": null,
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -377,7 +377,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -396,7 +396,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -415,7 +415,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -434,7 +434,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -453,7 +453,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -472,7 +472,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -491,7 +491,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -510,7 +510,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -529,7 +529,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -548,7 +548,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -567,7 +567,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -586,7 +586,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -605,7 +605,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -624,7 +624,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -643,7 +643,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -662,7 +662,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -681,7 +681,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -700,7 +700,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -719,26 +719,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
-      "stale": false
-    },
-    {
-      "id": "sbazar:234345570",
-      "source": "Sbazar",
-      "title": "Ford Mondeo MK3 automat",
-      "price": 25000,
-      "image": "https://d46-a.sdn.cz/d_46/c_img_qF_C/k0OqwCKRCO7AFBOPH4ZK8N/1511.jpeg",
-      "location": "Chrudim",
-      "published_at": "2026-09-26T17:53:13+00:00",
-      "updated_at": "2026-10-04T13:13:43+00:00",
-      "first_seen_at": "2026-10-09T10:37:46.529193+00:00",
-      "url": "https://www.sbazar.cz/inzerat/234345570-ford-mondeo-mk3-automat",
-      "year": null,
-      "km": null,
-      "fuel": null,
-      "gearbox": "Automatická",
-      "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -757,7 +738,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -776,7 +757,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -795,7 +776,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -814,7 +795,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -833,7 +814,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -852,7 +833,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -871,7 +852,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -890,7 +871,7 @@
       "fuel": null,
       "gearbox": null,
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -909,7 +890,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -928,7 +909,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -947,7 +928,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -966,7 +947,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -985,7 +966,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1004,7 +985,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1023,7 +1004,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1042,7 +1023,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1061,7 +1042,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1080,7 +1061,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1099,7 +1080,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1118,7 +1099,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1137,7 +1118,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1156,7 +1137,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1175,7 +1156,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1194,7 +1175,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     },
     {
@@ -1213,7 +1194,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-09T10:38:48.239150+00:00",
+      "last_seen_at": "2026-10-09T11:52:08.922847+00:00",
       "stale": false
     }
   ]
