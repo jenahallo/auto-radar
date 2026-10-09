@@ -1,0 +1,156 @@
+name: AutoRadar — denní kontrola aut
+
+on:
+  schedule:
+    - cron: '0 8 * * *'
+      timezone: Europe/Prague
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'car_watch/**'
+      - '!car_watch/data/**'
+      - '.github/workflows/car-watch.yml'
+  pull_request:
+    paths:
+      - 'car_watch/**'
+      - '.github/workflows/car-watch.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: car-watch-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test filtrů, parserů, času a API
+        run: python -m unittest discover -s car_watch/tests -v
+  scan:
+    if: github.event_name != 'pull_request'
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Kontrola Sauto.cz a Sbazar.cz za posledních 30 dní
+        id: collect
+        continue-on-error: true
+        run: python -u car_watch/collector.py
+      - name: Vytvořit webový přehled a souhrn
+        if: always()
+        run: |
+          python car_watch/export.py
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          p = Path('car_watch/data/latest.json')
+          if p.exists():
+              d = json.loads(p.read_text())
+              lines = ['## AutoRadar', f"Odpovídajících aut za 30 dní: **{len(d['items'])}**", '', 'Zdroj | Stav | Prověřeno', '--- | --- | ---']
+              for name, s in d['sources'].items():
+                  lines.append(f"{name} | {s['state']} | {s.get('scanned', 0)}")
+                  if s.get('message'): lines.append(f"\n{name}: {s['message']}\n")
+              lines.append('\nStáhněte artifact **auto-radar** a otevřete **dashboard.html**. Výchozí období je 48 hodin, lze přepnout na 7 nebo 30 dní.')
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f: f.write('\n'.join(lines))
+          PY
+      - name: Uložit výsledky do repozitáře
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add car_watch/data/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Aktualizovat přehled nabídek aut [skip ci]"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: auto-radar
+          path: |
+            car_watch/data/dashboard.html
+            car_watch/data/latest.json
+          retention-days: 30
+      - name: Oznámit neúspěšnou nebo neúplnou kontrolu
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "::error::Kontrola není úplná. Uložený přehled obsahuje stav a důvod u každého zdroje."
+          exit 1
+
+  publish:
+    if: always() && github.event_name != 'pull_request' && needs.scan.result != 'skipped'
+    needs: [scan, publish-current]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/download-artifact@v4
+        with:
+          name: auto-radar
+          path: public
+      - name: Připravit domovskou stránku
+        run: |
+          mv public/dashboard.html public/index.html
+          rm -f public/latest.json
+          touch public/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Publikovat na GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  publish-current:
+    if: github.event_name == 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Publikovat poslední ověřená data bez čekání na novou kontrolu
+        run: |
+          python car_watch/export.py --output public/index.html
+          touch public/.nojekyll
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages-current
+          path: public
+      - name: Publikovat aktuální přehled
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-current

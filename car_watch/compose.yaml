@@ -1,0 +1,13 @@
+services:
+  car-watch:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      CAR_SCHEDULE: "true"
+      CAR_PASSWORD: "${CAR_PASSWORD:-}"
+    volumes:
+      - car-watch-data:/app/data
+volumes:
+  car-watch-data:
