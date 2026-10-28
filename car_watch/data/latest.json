@@ -8,27 +8,45 @@
     "gearbox": "Automatická",
     "country": "ČR"
   },
-  "generated_at": "2026-10-27T13:01:39.912659+00:00",
-  "started_at": "2026-10-27T12:56:15.983404+00:00",
+  "generated_at": "2026-10-28T13:52:29.822547+00:00",
+  "started_at": "2026-10-28T13:46:54.188003+00:00",
   "lookback_days": 30,
   "sources": {
     "Sauto": {
       "state": "ok",
       "scanned": 121,
       "message": "",
-      "checked_at": "2026-10-27T12:56:18.252663+00:00"
+      "checked_at": "2026-10-28T13:46:56.699181+00:00"
     },
     "Sbazar": {
       "state": "ok",
-      "scanned": 323,
-      "pages": 79,
+      "scanned": 315,
+      "pages": 84,
       "unverified": 40,
       "failed_details": 0,
       "message": "",
-      "checked_at": "2026-10-27T13:01:39.912622+00:00"
+      "checked_at": "2026-10-28T13:52:29.822511+00:00"
     }
   },
   "items": [
+    {
+      "id": "sauto:211357875",
+      "source": "Sauto",
+      "title": "Citroën C3, 1.2 PureTech, Navi",
+      "price": 190000,
+      "image": "https://d19-a.sdn.cz/d_19/c_img_qG_C/kb4JgeTdkC4TclooVIM8Tbq/4de1.jpeg",
+      "location": "Cheb",
+      "published_at": "2026-10-28T11:34:45+00:00",
+      "updated_at": "2026-10-28T12:07:52+00:00",
+      "first_seen_at": "2026-10-28T13:46:55.670504+00:00",
+      "year": 2017,
+      "km": 115000,
+      "fuel": "Benzín",
+      "gearbox": "Automatická",
+      "url": "https://www.sauto.cz/osobni/detail/citroen/c3/211357875",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
+      "stale": false
+    },
     {
       "id": "sauto:211348854",
       "source": "Sauto",
@@ -37,14 +55,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_C/nCXhmtHPUB6IMDD3kEIMPueb/3254.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-27T06:28:42+00:00",
-      "updated_at": "2026-10-27T06:28:54+00:00",
+      "updated_at": "2026-10-28T05:20:41+00:00",
       "first_seen_at": "2026-10-27T12:56:17.280616+00:00",
       "year": 2019,
       "km": 108520,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/308/211348854",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -62,7 +80,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/nissan/micra/211343760",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -81,7 +99,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -99,7 +117,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/fiat/500/211339467",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -110,14 +128,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_C/nCXhmtHPUB13CvBTAsIL3Ocs/0dfb.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-24T10:59:42+00:00",
-      "updated_at": "2026-10-26T15:34:20+00:00",
+      "updated_at": "2026-10-28T00:26:37+00:00",
       "first_seen_at": "2026-10-26T13:49:45.440209+00:00",
       "year": 2016,
       "km": 85970,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/renault/captur/211337823",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -128,14 +146,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kPyfG4fPEeC2TMra6iIKLaMP/cb78.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-22T19:02:25+00:00",
-      "updated_at": "2026-10-26T20:32:58+00:00",
+      "updated_at": "2026-10-28T00:26:28+00:00",
       "first_seen_at": "2026-10-23T10:56:09.421566+00:00",
       "year": 2016,
       "km": 91643,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211329162",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -146,14 +164,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kPyfG4fPEeC2TMr5vIJADBU/4265.jpeg",
       "location": "Vsetín",
       "published_at": "2026-10-21T16:56:51+00:00",
-      "updated_at": "2026-10-27T03:19:23+00:00",
+      "updated_at": "2026-10-28T03:20:06+00:00",
       "first_seen_at": "2026-10-22T11:03:12.715735+00:00",
       "year": 2016,
       "km": 97171,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/skoda/fabia/211321782",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -164,7 +182,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_B/ncz4PZ5CZDRiMdxfIJAKIW/4b13.jpeg",
       "location": "Vsetín",
       "published_at": "2026-10-21T16:56:51+00:00",
-      "updated_at": "2026-10-27T03:20:30+00:00",
+      "updated_at": "2026-10-28T03:20:29+00:00",
       "first_seen_at": "2026-10-22T11:06:19.998651+00:00",
       "url": "https://www.sbazar.cz/inzerat/235109559-skoda-fabia-12-tsi-81kw-dsg-style",
       "year": 2016,
@@ -172,7 +190,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -183,14 +201,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kPw320bnC5CIwXsFY7II0Pkc/77ee.jpeg",
       "location": "Praha",
       "published_at": "2026-10-21T10:23:29+00:00",
-      "updated_at": "2026-10-27T11:20:23+00:00",
+      "updated_at": "2026-10-28T05:14:09+00:00",
       "first_seen_at": "2026-10-21T11:03:33.241257+00:00",
       "year": 2019,
       "km": 64298,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/honda/cr-v/211317660",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -208,7 +226,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211317024",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -226,7 +244,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/dacia/sandero/211314258",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -237,14 +255,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kPw320bnC5B3zcjC70IIUJ68/a2d3.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-20T13:13:01+00:00",
-      "updated_at": "2026-10-27T09:33:29+00:00",
+      "updated_at": "2026-10-28T12:34:16+00:00",
       "first_seen_at": "2026-10-21T11:03:33.241454+00:00",
       "year": 2019,
       "km": 100770,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/308/211311282",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -255,14 +273,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/nPQ64TBsMvNXddkUIHvDZi/c121.jpeg",
       "location": "Brno-město",
       "published_at": "2026-10-19T13:58:32+00:00",
-      "updated_at": "2026-10-25T06:20:13+00:00",
+      "updated_at": "2026-10-28T05:04:04+00:00",
       "first_seen_at": "2026-10-20T10:51:42.729278+00:00",
       "year": 2016,
       "km": 64689,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/opel/meriva/211304325",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -273,14 +291,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kO1NtbE1zwCZdG9USIHtkE7/dc8f.jpeg",
       "location": "Náchod",
       "published_at": "2026-10-19T13:00:03+00:00",
-      "updated_at": "2026-10-19T13:00:10+00:00",
+      "updated_at": "2026-10-28T04:01:11+00:00",
       "first_seen_at": "2026-10-20T10:51:42.729308+00:00",
       "year": 2018,
       "km": 83111,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/ford/focus/211303605",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -291,7 +309,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_B/kO1NtbE1zwDuiLIsXIHuGZT/df93.jpeg",
       "location": "Náchod",
       "published_at": "2026-10-19T13:00:03+00:00",
-      "updated_at": "2026-10-19T13:20:47+00:00",
+      "updated_at": "2026-10-28T04:10:49+00:00",
       "first_seen_at": "2026-10-20T10:55:32.947005+00:00",
       "url": "https://www.sbazar.cz/inzerat/235040220-ford-focus-16-16v-automat",
       "year": 2018,
@@ -299,7 +317,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -317,7 +335,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211300926",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -328,14 +346,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/nPTZ57SOdpXNfDUSIHrJhC/d13d.jpeg",
       "location": "Praha",
       "published_at": "2026-10-16T15:25:56+00:00",
-      "updated_at": "2026-10-23T14:12:28+00:00",
+      "updated_at": "2026-10-28T05:27:32+00:00",
       "first_seen_at": "2026-10-19T11:57:25.398053+00:00",
       "year": 2021,
       "km": 107000,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/dacia/sandero/211292835",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -346,14 +364,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/nCR9NVflLwO7j7ufIHRpBd/8e0e.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-16T14:33:10+00:00",
-      "updated_at": "2026-10-27T12:36:07+00:00",
+      "updated_at": "2026-10-28T13:35:28+00:00",
       "first_seen_at": "2026-10-17T10:04:00.363481+00:00",
       "year": 2017,
       "km": 23150,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/skoda/citigo/211292211",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -364,14 +382,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kcKfrMAkFW9k4jXyIF52Ni/ead0.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-16T11:02:53+00:00",
-      "updated_at": "2026-10-26T12:38:29+00:00",
+      "updated_at": "2026-10-28T00:25:50+00:00",
       "first_seen_at": "2026-10-17T10:04:00.363594+00:00",
       "year": 2015,
       "km": 129542,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/renault/captur/211289988",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -382,14 +400,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/nCR9NVflLnoRVnRnIF1Wxs/36be.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-16T08:03:53+00:00",
-      "updated_at": "2026-10-26T09:34:02+00:00",
+      "updated_at": "2026-10-28T00:25:50+00:00",
       "first_seen_at": "2026-10-16T10:34:27.083060+00:00",
       "year": 2016,
       "km": 96442,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211288536",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -400,14 +418,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/kPyfG4fPEeCsx6amDoIJpyun/d8b0.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-14T13:11:45+00:00",
-      "updated_at": "2026-10-26T12:40:24+00:00",
+      "updated_at": "2026-10-28T00:25:37+00:00",
       "first_seen_at": "2026-10-15T10:46:34.270270+00:00",
       "year": 2016,
       "km": 111646,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211276197",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -418,32 +436,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_B/nCR9NVflLCnfP0BFDJIETumu/899c.jpeg",
       "location": "Benešov",
       "published_at": "2026-10-13T06:59:22+00:00",
-      "updated_at": "2026-10-26T15:31:35+00:00",
+      "updated_at": "2026-10-28T01:38:27+00:00",
       "first_seen_at": "2026-10-23T10:56:09.421660+00:00",
       "year": 2018,
       "km": 52408,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/toyota/aygo/211264452",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
-      "stale": false
-    },
-    {
-      "id": "sauto:211264185",
-      "source": "Sauto",
-      "title": "Škoda Citigo, 1.0 MPI 55 kW automat ASG",
-      "price": 209000,
-      "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/kcKfrMAkFnIwlt97IED6Gk/adbd.jpeg",
-      "location": "Olomouc",
-      "published_at": "2026-10-13T06:15:15+00:00",
-      "updated_at": "2026-10-21T12:20:21+00:00",
-      "first_seen_at": "2026-10-13T13:26:08.552385+00:00",
-      "year": 2017,
-      "km": 91487,
-      "fuel": "Benzín",
-      "gearbox": "Automatická",
-      "url": "https://www.sauto.cz/osobni/detail/skoda/citigo/211264185",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -454,14 +454,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/nCR9NVflLBkdq1RLAICly21/bbd3.jpeg",
       "location": "Kutná Hora",
       "published_at": "2026-10-10T18:02:16+00:00",
-      "updated_at": "2026-10-24T12:48:14+00:00",
+      "updated_at": "2026-10-28T12:43:30+00:00",
       "first_seen_at": "2026-10-25T12:18:22.401060+00:00",
       "year": 2016,
       "km": 115000,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/kia/optima/211253610",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -472,14 +472,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/nCR9NVflLBkdq1LroIB3qwO/0a0d.jpeg",
       "location": "Ostrava",
       "published_at": "2026-10-09T13:18:06+00:00",
-      "updated_at": "2026-10-22T09:43:36+00:00",
+      "updated_at": "2026-10-28T01:35:18+00:00",
       "first_seen_at": "2026-10-22T11:03:12.716569+00:00",
       "year": 2018,
       "km": 113695,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211248573",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -490,14 +490,14 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/kcKfrMAkFDzJCCWoKIBwCr8/da8f.jpeg",
       "location": "Kuřim",
       "published_at": "2026-10-09T08:19:12+00:00",
-      "updated_at": "2026-10-23T07:15:01+00:00",
+      "updated_at": "2026-10-28T00:46:59+00:00",
       "first_seen_at": "2026-10-23T10:56:09.422283+00:00",
       "year": 2017,
       "km": 108460,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/bmw/rada-2/211245672",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -515,7 +515,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211241855",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -526,32 +526,32 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/nCR9NVflLBkdq1G0NIBOF3M/24b9.jpeg",
       "location": "Příbram",
       "published_at": "2026-10-08T09:53:01+00:00",
-      "updated_at": "2026-10-24T22:49:47+00:00",
+      "updated_at": "2026-10-28T01:10:22+00:00",
       "first_seen_at": "2026-10-09T10:33:14.667153+00:00",
       "year": 2016,
       "km": 127000,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/volkswagen/polo/211240643",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
       "id": "sauto:211216770",
       "source": "Sauto",
       "title": "Peugeot 2008, 1.2 PT,Allure,AT,navi",
-      "price": 220000,
+      "price": 205200,
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/nCR9NVflLChOIjYWKICADkh/55b8.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-05T09:09:48+00:00",
-      "updated_at": "2026-10-26T22:30:21+00:00",
+      "updated_at": "2026-10-28T07:40:46+00:00",
       "first_seen_at": "2026-10-09T10:33:14.667597+00:00",
       "year": 2019,
       "km": 76861,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211216770",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     },
     {
@@ -562,18 +562,37 @@
       "image": "https://d19-a.sdn.cz/d_19/c_img_qG_A/nCR9NVflLnoRVOavH77J3n/f5a2.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-09-30T11:15:13+00:00",
-      "updated_at": "2026-10-26T09:32:22+00:00",
+      "updated_at": "2026-10-28T00:24:20+00:00",
       "first_seen_at": "2026-10-09T10:33:14.668036+00:00",
       "year": 2019,
       "km": 44555,
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "url": "https://www.sauto.cz/osobni/detail/peugeot/2008/211191447",
-      "last_seen_at": "2026-10-27T12:56:18.252663+00:00",
+      "last_seen_at": "2026-10-28T13:46:56.699181+00:00",
       "stale": false
     }
   ],
   "unverified": [
+    {
+      "id": "sbazar:235311924",
+      "source": "Sbazar",
+      "title": "Seat Altea, 1,8 TSI Automat 118kW",
+      "price": 169000,
+      "image": "https://d46-a.sdn.cz/d_46/c_img_qG_C/nQO0xPd86TBgJSgU31IM2kJy/d295.jpeg",
+      "location": "Březová",
+      "published_at": "2026-10-28T08:09:57+00:00",
+      "updated_at": "2026-10-28T08:22:00+00:00",
+      "first_seen_at": "2026-10-28T13:50:32.373963+00:00",
+      "url": "https://www.sbazar.cz/inzerat/235311924-seat-altea-18-tsi-automat-118kw",
+      "year": null,
+      "km": 0,
+      "fuel": "Benzín",
+      "gearbox": "Automatická",
+      "parser_version": 2,
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
+      "stale": false
+    },
     {
       "id": "sbazar:235286592",
       "source": "Sbazar",
@@ -590,7 +609,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -609,7 +628,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -628,7 +647,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -647,7 +666,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -666,7 +685,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -685,7 +704,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -704,7 +723,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -723,7 +742,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -742,7 +761,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -761,7 +780,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -780,7 +799,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -799,7 +818,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -818,7 +837,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -837,26 +856,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
-      "stale": false
-    },
-    {
-      "id": "sbazar:235089894",
-      "source": "Sbazar",
-      "title": "MB E-CLASS W212,250CDi,KOMBI,7G-TRONIC",
-      "price": 149000,
-      "image": "https://d46-a.sdn.cz/d_46/c_img_qG_B/kPw320bnC5Bj4lmEt8IIubWm/53a0.jpeg",
-      "location": "Planá",
-      "published_at": "2026-10-21T06:36:35+00:00",
-      "updated_at": "2026-10-23T11:05:50+00:00",
-      "first_seen_at": "2026-10-22T11:06:26.502492+00:00",
-      "url": "https://www.sbazar.cz/inzerat/235089894-mb-e-class-w212250cdikombi7g-tronic",
-      "year": null,
-      "km": null,
-      "fuel": null,
-      "gearbox": "Automatická",
-      "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -875,7 +875,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -886,7 +886,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_B/kPw320bnC5B3yt3DRYIIaDmU/6d84.jpeg",
       "location": "Most",
       "published_at": "2026-10-20T17:05:47+00:00",
-      "updated_at": "2026-10-20T17:23:12+00:00",
+      "updated_at": "2026-10-28T04:15:42+00:00",
       "first_seen_at": "2026-10-22T11:06:29.576770+00:00",
       "url": "https://www.sbazar.cz/inzerat/235080042-automat-peugeot-1007-16-16v-80-kw-nova-tk",
       "year": null,
@@ -894,7 +894,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -913,7 +913,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -932,7 +932,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -951,7 +951,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -970,7 +970,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -989,7 +989,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1008,7 +1008,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1027,7 +1027,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1038,7 +1038,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_B/kcKfrMAkFCHDToHg7IENVSe/edf8.jpeg",
       "location": "Děčín",
       "published_at": "2026-10-13T12:13:53+00:00",
-      "updated_at": "2026-10-25T23:51:14+00:00",
+      "updated_at": "2026-10-28T02:13:15+00:00",
       "first_seen_at": "2026-10-13T13:29:59.354501+00:00",
       "url": "https://www.sbazar.cz/inzerat/234857322-skoda-octavia-14-tsi-90kw-dsg-pdc-tempomat",
       "year": null,
@@ -1046,7 +1046,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1065,7 +1065,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1084,7 +1084,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1103,7 +1103,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1122,7 +1122,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1141,7 +1141,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1160,7 +1160,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1171,7 +1171,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_A/nCR9NVflLnoRVMTbH93snb/7bd0.jpeg",
       "location": "Hlavní město Praha",
       "published_at": "2026-10-04T14:34:12+00:00",
-      "updated_at": "2026-10-27T05:10:53+00:00",
+      "updated_at": "2026-10-28T05:11:04+00:00",
       "first_seen_at": "2026-10-09T10:37:02.272403+00:00",
       "url": "https://www.sbazar.cz/inzerat/234575448-skoda-citigo-10-mpi-style-automat",
       "year": null,
@@ -1179,7 +1179,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1190,7 +1190,7 @@
       "image": "https://d46-a.sdn.cz/d_46/c_img_qG_A/nCR9NVflLnoRVND2H70JDe/45cc.jpeg",
       "location": "Praha",
       "published_at": "2026-10-02T14:52:53+00:00",
-      "updated_at": "2026-10-20T23:07:17+00:00",
+      "updated_at": "2026-10-28T04:15:41+00:00",
       "first_seen_at": "2026-10-09T10:37:08.475719+00:00",
       "url": "https://www.sbazar.cz/inzerat/234519078-volvo-s40-automat-benzin",
       "year": null,
@@ -1198,7 +1198,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1217,7 +1217,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1236,7 +1236,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1255,7 +1255,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1274,7 +1274,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1293,7 +1293,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1312,7 +1312,7 @@
       "fuel": "Benzín",
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     },
     {
@@ -1331,7 +1331,7 @@
       "fuel": null,
       "gearbox": "Automatická",
       "parser_version": 2,
-      "last_seen_at": "2026-10-27T13:01:39.912622+00:00",
+      "last_seen_at": "2026-10-28T13:52:29.822511+00:00",
       "stale": false
     }
   ]
